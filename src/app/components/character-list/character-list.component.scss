@@ -1,0 +1,27 @@
+.characters--grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3rem 2.6rem;
+}
+
+#masContenido{
+  background-color: antiquewhite;
+  border-radius: 20px;
+  font-size: 30px;
+  bottom: 20px;
+  text-align: center;
+  color: red;
+  border-width: 0;
+  box-shadow: rgba(25, 25, 25, 0.04) 0 0 1px 0, rgba(0, 0, 0, 0.1) 0 5px 4px 0;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  height: 50px;
+  padding: 0 25px;
+  transition: all 200ms;
+  font-weight: bold;
+}
+.btn{
+  text-align: center;
+}

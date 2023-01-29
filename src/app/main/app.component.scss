@@ -1,0 +1,28 @@
+body{
+  background-image: url("https://www.eltiempo.com/uploads/2022/06/04/629bff00a3ab6.jpeg");
+  background-attachment: fixed;
+  background-size:100% 100%;
+  background-color: antiquewhite;
+}
+
+.container{
+  padding: 2rem 3rem;
+  text-align: center;
+  color: #fff;
+  border: 3px solid #fff;
+  box-shadow: 0px 0px 25px #222;
+  backdrop-filter: blur(2px);
+
+}
+.titulo
+{
+  text-align: center;
+  color: white;
+  font-family:  Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: red;
+  margin: 0;
+}
+
+
